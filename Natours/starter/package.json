@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "g": "^2.0.1",
+    "live-server": "^1.2.2"
   }
 }
